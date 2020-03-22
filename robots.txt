@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://capahngeip.hackercafe.io/sitemap.xml
